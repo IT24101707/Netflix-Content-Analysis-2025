@@ -39,18 +39,66 @@ The dataset used for this project contains Netflix content information updated u
 6. Business Insight Generation
 
 ---
+## 📈 Project Visualizations
 
-## 📈 Visualizations
+### 📅 Netflix Movies Released by Year
 
-* Movies Released by Year
-* Top Movie Genres
-* Top Producing Countries
-* Highest Rated Movies
-* Most Popular Movies
-* Language Analysis
-* Rating Distribution
-* Correlation Heatmap
-* Revenue Analysis
+![Release Year Trend](images/release_year_trend.png)
+
+---
+
+### 🎭 Top 10 Movie Genres
+
+![Top Genres](images/top_genres.png)
+
+---
+
+### 🌍 Top 10 Producing Countries
+
+![Top Countries](images/top_countries.png)
+
+---
+
+### ⭐ Top 10 Highest Rated Movies
+
+![Top Rated Movies](images/top_rated_movies.png)
+
+---
+
+### 🔥 Top 10 Most Popular Movies
+
+![Most Popular Movies](images/most_popular_movies.png)
+
+---
+
+### 🗣️ Top Languages
+
+![Top Languages](images/top_languages.png)
+
+---
+
+### 📊 Rating Distribution
+
+![Rating Distribution](images/rating_distribution.png)
+
+---
+
+### 📈 Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+### 💰 Top Revenue Movies
+
+![Top Revenue Movies](images/top_revenue_movies.png)
+
+---
+
+### 📋 Final Summary
+
+![Final Summary](images/final_summary.png)
+
 
 ---
 
